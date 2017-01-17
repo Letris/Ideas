@@ -1,0 +1,14 @@
+# Ideas
+
+FONTS
+
+--Good fonts:
+font-family: 'Roboto', sans-serif;
+
+--google fonts can be linked in the heading for fonts:
+
+<link href="https://fonts.googleapis.com/css?family=Raleway" type="text/css" rel="stylesheet" >
+
+-- When editing the line-height (space between lines), em is preferred.
+-- When editing the word-spacing (space between words), em is preffered.
+-- The space between letters can be edited by using letter-spacing.
